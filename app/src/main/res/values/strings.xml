@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Dream Land</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="name4"> Are you sure you want Exit </string>
+    <string name="exit">Exit</string>
+    <string name="YES">YES</string>
+    <string name="No">No</string>
+    <string name="image">image</string>
+
+    <string-array name="tvflag18">
+        <item>سعودي</item>
+        <item>سعودي</item>
+        <item>سعودي</item>
+        <item>سعودي</item>
+        <item>سعودي</item>
+        <item>ساليه سوكريه</item>
+        <item>برجر فاكتوري</item>
+        <item>سلامنكا</item>
+        <item>بلدينا</item>
+    </string-array>
+
+    <string-array name="tvflag" tools:ignore="ExtraTranslation">
+        <item>16176</item>
+        <item>0238553273</item>
+        <item>0238553274</item>
+        <item>0238553275</item>
+        <item>0238553278ه</item>
+        <item>01000055466</item>
+        <item>01221011222</item>
+        <item>01204999936</item>
+        <item>01000147749</item>
+    </string-array>
+    
+</resources>
